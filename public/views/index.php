@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>PHP Introduction!</title>
-    <link rel="stylesheet" href="styles/style.css">
+    <link rel="stylesheet" href="/styles/style.css">
   </head>
   <body>
     <img src="http://i1061.photobucket.com/albums/t480/ericqweinstein/php-logo_zps408c82d7.png" alt="php logo">
